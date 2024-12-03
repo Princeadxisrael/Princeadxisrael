@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on SVMs,Distributed DBs and Distributed Computing.
-- 🌱 I’m currently learning to design, build, optimize blockchains and data-intensive systems.
+- 🌱 I’m currently learning to design, build and optimize blockchains and data-intensive systems.
 - 👯 I’m looking to collaborate on Solana.
 - 🤔 I love to research and documenting my findings.
 - 💬 Ask me about SVM, EVM, anything blockchain.
